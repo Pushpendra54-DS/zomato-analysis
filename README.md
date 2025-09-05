@@ -30,3 +30,31 @@ Some key insights from the exploratory data analysis (EDA):
 - **Correlation Between Numeric Features**: Explored relationships like rating vs. cost, votes vs. rating.  
 
 📂 All related plots can be found in the [`plots/eda/`](plots/eda/) folder.
+
+---
+
+## 🔄 Project Workflow
+
+The workflow of this project is structured as follows:
+
+1. **Data Cleaning & Preprocessing**  
+   - Handled missing values and inconsistencies  
+   - Encoded categorical variables and scaled numeric features  
+
+2. **Exploratory Data Analysis (EDA)**  
+   - Visualized distributions, correlations, and patterns in data  
+   - Derived key insights about cuisines, ratings, and cost trends  
+
+3. **Feature Engineering**  
+   - Created meaningful features for model training  
+
+4. **Model Building (Upcoming)**  
+   - Logistic Regression  
+   - Decision Tree  
+   - XGBoost  
+
+5. **Model Evaluation (Upcoming)**  
+   - Accuracy, Precision, Recall, F1-score, ROC-AUC  
+   - Confusion Matrices and ROC Curves  
+
+📂 Model-related visualizations will be stored in [`plots/models/`](plots/models/).
