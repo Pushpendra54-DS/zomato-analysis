@@ -75,3 +75,16 @@ Planned next steps for this project:
 - **Deployment**  
   - Deploy a simple dashboard or API to demonstrate the model in action
 
+---
+## 📂 Repository Structure
+
+The repository is organized as follows:
+
+data/ → raw datasets (Zomato.csv etc.)
+models/ → trained ML models (.pkl / .joblib)
+notebooks/ → Jupyter/Colab notebooks
+plots/
+├── eda/ → exploratory data analysis visualizations
+├── models/ → ML model visualizations (confusion matrix, ROC, etc.)
+results/ → evaluation reports (metrics, CSV, JSON, etc.)
+
