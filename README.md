@@ -18,3 +18,15 @@ The dataset is available on Google Drive:
 - Python (Pandas, Numpy, Matplotlib, Seaborn)
 - Machine Learning (Scikit-learn, XGBoost)
 - Google Colab
+
+---
+## 📊 EDA Insights
+
+Some key insights from the exploratory data analysis (EDA):
+
+- **Top 10 Cuisines**: Identified the most popular cuisines in the dataset.  
+- **Average Rating by Location**: Found areas with higher/lower customer satisfaction.  
+- **Cost for Two Distribution**: Analyzed spending patterns of customers.  
+- **Correlation Between Numeric Features**: Explored relationships like rating vs. cost, votes vs. rating.  
+
+📂 All related plots can be found in the [`plots/eda/`](plots/eda/) folder.
