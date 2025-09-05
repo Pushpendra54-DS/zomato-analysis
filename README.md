@@ -58,3 +58,20 @@ The workflow of this project is structured as follows:
    - Confusion Matrices and ROC Curves  
 
 📂 Model-related visualizations will be stored in [`plots/models/`](plots/models/).
+---
+
+## 🚀 Future Work
+
+Planned next steps for this project:
+
+- **Model Training & Evaluation**  
+  - Train and evaluate Logistic Regression, Decision Tree, and XGBoost models  
+  - Perform hyperparameter tuning for improved performance  
+
+- **Save and Document Results**  
+  - Store trained models in the `models/` folder  
+  - Save evaluation metrics (accuracy, precision, recall, F1, ROC-AUC) in the `results/` folder  
+
+- **Deployment**  
+  - Deploy a simple dashboard or API to demonstrate the model in action
+
