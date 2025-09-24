@@ -13,3 +13,8 @@ This project contains Exploratory Data Analysis (EDA) and a Machine Learning mod
 ## How to Run
 Open the notebook in Google Colab or Jupyter and run all cells.
 
+## Dataset
+
+Dataset is too big to upload to GitHub. You can download it here:
+
+[Download Zomato dataset from Google Drive](https://drive.google.com/file/d/1XtwdPLLNdIOMI5xps5z2sQFuCryNATbE/view?usp=sharing)
