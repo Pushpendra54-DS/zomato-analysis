@@ -26,7 +26,7 @@ Click any notebook in the `notebooks/` folder to open it directly in your browse
 git clone https://github.com/Pushpendra54-DS/zomato-analysis.git
 
 # 2. Navigate into the project folder
-cd Bonston-Housing
+cd zomato-analysis
 
 # 3. Install the required packages
 pip install -r requirements.txt
