@@ -14,27 +14,26 @@ The project is organized into the following directories:
 - **`plots/`**: Visualizations and charts generated during analysis.
 - **`results/`**: Model evaluation metrics and outputs.
 
-## ▶️ How to Run or View
+## How to Run or View
 
-**Option 1: View on GitHub**
+### ​ Option 1: View on GitHub
+Click any notebook in the `notebooks/` folder to open it directly in your browser—no setup needed.
 
-- Navigate to the `notebooks/` folder in this repository.
-- Click on any `.ipynb` notebook file to view it directly in your browser—no setup needed.
+###  Terminal Option 2: Run Locally
 
-**Option 2: Run Locally**
+```bash
+# 1. Clone the repository
+git clone https://github.com/Pushpendra54-DS/zomato-analysis.git
 
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/Pushpendra54-DS/zomato-analysis.git
-   cd zomato-analysis
+# 2. Navigate into the project folder
+cd Bonston-Housing
 
-Install the required packages:
-bash
+# 3. Install the required packages
 pip install -r requirements.txt
 
-Launch Jupyter Notebook:
-bash
+# 4. Launch Jupyter Notebook
 jupyter notebook
-
+Once Jupyter opens, navigate to the notebooks/ folder and click a notebook to run it.
+```
 
 
