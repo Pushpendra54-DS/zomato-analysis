@@ -14,13 +14,21 @@ The project is organized into the following directories:
 - **`plots/`**: Visualizations and charts generated during analysis.
 - **`results/`**: Model evaluation metrics and outputs.
 
-## 🔧 Installation and Setup
+## ▶️ How to Run or View
 
-To get started with this project, follow these steps:
+**Option 1: View on GitHub**
 
-1. **Clone the Repository**:
+- Click any notebook in the `notebooks/` folder to open it directly in your browser—no setup needed.
+
+**Option 2: Run Locally**
+
+1. **Clone the repository**:
    ```bash
    git clone https://github.com/Pushpendra54-DS/zomato-analysis.git
    cd zomato-analysis
-pip install -r requirements.txt
+   pip install -r requirements.txt
+   jupyter notebook
+
+
+
 
