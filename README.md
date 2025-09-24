@@ -7,7 +7,7 @@ This project contains Exploratory Data Analysis (EDA) and a Machine Learning mod
 - `notebook/` – Jupyter notebooks (main notebook included)
 - `data/` – Raw or processed dataset files
 - `models/` – Saved machine learning models
-- `plots/` – Visualizations and graphs
+- `plots/` – Visualizations and graphs from EDA
 - `result/` – Model predictions or outputs
 
 ## How to Run
