@@ -26,6 +26,7 @@ The project is organized into the following directories:
    ```bash
    git clone https://github.com/Pushpendra54-DS/zomato-analysis.git
    cd zomato-analysis
+   ```bash
    pip install -r requirements.txt
    jupyter notebook
 
