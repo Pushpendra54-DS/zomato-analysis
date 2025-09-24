@@ -22,4 +22,5 @@ To get started with this project, follow these steps:
    ```bash
    git clone https://github.com/Pushpendra54-DS/zomato-analysis.git
    cd zomato-analysis
+pip install -r requirements.txt
 
