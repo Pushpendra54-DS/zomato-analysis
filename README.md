@@ -18,7 +18,8 @@ The project is organized into the following directories:
 
 **Option 1: View on GitHub**
 
-- Click any notebook in the `notebooks/` folder to open it directly in your browser—no setup needed.
+- Navigate to the `notebooks/` folder in this repository.
+- Click on any `.ipynb` notebook file to view it directly in your browser—no setup needed.
 
 **Option 2: Run Locally**
 
@@ -26,10 +27,12 @@ The project is organized into the following directories:
    ```bash
    git clone https://github.com/Pushpendra54-DS/zomato-analysis.git
    cd zomato-analysis
-   ```bash
-   pip install -r requirements.txt
-   jupyter notebook
-
+Install the required packages:
+bash
+pip install -r requirements.txt
+Launch Jupyter Notebook:
+bash
+jupyter notebook
 
 
 
