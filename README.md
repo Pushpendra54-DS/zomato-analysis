@@ -20,6 +20,6 @@ To get started with this project, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/zomato-analysis.git
+   git clone https://github.com/Pushpendra54-DS/zomato-analysis.git
    cd zomato-analysis
 
