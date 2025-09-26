@@ -5,9 +5,19 @@
 [![Colab](https://img.shields.io/badge/Open%20in-Colab-orange?logo=googlecolab&logoColor=white)](https://colab.research.google.com/drive/your_colab_file_id)
 [![Project](https://img.shields.io/badge/Project-Data%20Science-purple)](#)
 
-# Zomato EDA and Modeling
-
 # Zomato EDA and ML Model
+
+## 📑 Table of Contents
+
+- [📝 Overview](#-overview)
+- [📁 Folder Structure](#-folder-structure)
+- [⚡ How to Run](#-how-to-run)
+- [📊 Dataset](#-dataset)
+- [🏆 Results](#-results)
+- [📈 Metric Summary](#-metric-summary)
+- [🚀 Future Work](#-future-work)
+- [📜 License](#-license)
+
 
 ## 📝 Overview
 This project contains Exploratory Data Analysis (EDA) and a Machine Learning model built on the Zomato dataset.
