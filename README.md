@@ -1,3 +1,9 @@
+![Python](https://img.shields.io/badge/python-3.10-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
+![Project](https://img.shields.io/badge/project-Data%20Science-orange)
+
+# Zomato EDA and Modeling
+
 # Zomato EDA and ML Model
 
 ## Overview
