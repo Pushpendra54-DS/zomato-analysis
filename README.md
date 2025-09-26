@@ -20,6 +20,7 @@
 - [🔄 Workflow](#-workflow)
 - [🏆 Results](#-results)
 - [📈 Metric Summary](#-metric-summary)
+- [👨‍💻 Author](#-author)
 - [🚀 Future Work](#-future-work)
 - [📜 License](#-license)
 
@@ -104,6 +105,15 @@ The performance of different models was compared using this plot:
 - Decision Tree (DT) and XGBoost performed moderately well.  
 
 For detailed analysis, see the [notebooks](notebooks/ZOMATO%20EDA%20and%20modelling.ipynb).
+
+## 👨‍💻 Author
+
+**Pushpendra Singh**
+
+- GitHub: [@Puushpendra54-DS](https://github.com/Puushpendra54-DS)  
+- LinkedIn: [Pushpendra Singh](https://www.linkedin.com/in/pushpendra-singh-3909aab)  
+- Email: p.singhbn@gmail.com
+
 
 ##  📜 Future Work
 
