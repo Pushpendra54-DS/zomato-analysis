@@ -76,6 +76,13 @@ Dataset is too big to upload to GitHub. You can download it here:
 
 [Download Zomato dataset from Google Drive](https://drive.google.com/file/d/1XtwdPLLNdIOMI5xps5z2sQFuCryNATbE/view?usp=sharing)
 
+## 🔄 Workflow
+
+<p align="center">
+  <img src="plots/workflow.png" alt="Workflow Diagram" width="500">
+</p>
+
+
 ##  🏆 Results
 
 The performance of different models was compared using this plot:
