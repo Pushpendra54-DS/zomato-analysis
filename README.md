@@ -1,6 +1,9 @@
-![Python](https://img.shields.io/badge/python-3.10-blue)
-![License](https://img.shields.io/badge/license-MIT-green)
-![Project](https://img.shields.io/badge/project-Data%20Science-orange)
+# Badges
+
+[![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white)](https://www.python.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![Colab](https://img.shields.io/badge/Open%20in-Colab-orange?logo=googlecolab&logoColor=white)](https://colab.research.google.com/drive/your_colab_file_id)
+[![Project](https://img.shields.io/badge/Project-Data%20Science-purple)](#)
 
 # Zomato EDA and Modeling
 
