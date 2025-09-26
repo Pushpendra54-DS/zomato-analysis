@@ -11,8 +11,15 @@ This project contains Exploratory Data Analysis (EDA) and a Machine Learning mod
 - [results/](results/) – Model results and outputs
 
 ## How to Run
-Open the notebook in Google Colab or Jupyter and run all cells.
 
+1. Open the notebook in [Google Colab](https://colab.research.google.com/).  
+2. Or click directly on the notebook in this repository:  
+   [ZOMATO EDA and Modelling](notebook/ZOMATO%20EDA%20and%20modelling.ipynb)  
+3. Make sure you have the required libraries installed. For example:
+
+```python
+!pip install pandas numpy matplotlib seaborn scikit-learn
+```
 ## Dataset
 
 Dataset is too big to upload to GitHub. You can download it here:
