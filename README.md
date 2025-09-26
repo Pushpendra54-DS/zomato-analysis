@@ -9,17 +9,17 @@
 
 # Zomato EDA and ML Model
 
-## Overview
+## 📝 Overview
 This project contains Exploratory Data Analysis (EDA) and a Machine Learning model built on the Zomato dataset.
 
-## Folder Structure
+## 📁 Folder Structure
 - [notebooks/](notebooks/) – Jupyter notebooks
 - [data/](data/) – Dataset files
 - [models/](models/) – Saved ML models (if any)
 - [plots/](plots/) – Visualizations and graphs from EDA
 - [results/](results/) – Model results and outputs
 
-## How to Run
+## ⚡ How to Run
 
 1. Open the notebook in [Google Colab](https://colab.research.google.com/).  
 2. Or click directly on the notebooks in this repository:  
@@ -30,19 +30,19 @@ This project contains Exploratory Data Analysis (EDA) and a Machine Learning mod
 !pip install pandas numpy matplotlib seaborn scikit-learn
 
 ```
-## Dataset
+##  📊  Dataset
 
 Dataset is too big to upload to GitHub. You can download it here:
 
 [Download Zomato dataset from Google Drive](https://drive.google.com/file/d/1XtwdPLLNdIOMI5xps5z2sQFuCryNATbE/view?usp=sharing)
 
-## Results
+##  🏆 Results
 
 The performance of different models was compared using this plot:
 
 ![Model Comparison](results/Model%20Comparision.png)
 
-### Metrics Summary
+###  📈 Metrics Summary
 
 | Model           | MAE           | R²           |
 |-----------------|---------------|-------------|
@@ -58,7 +58,7 @@ The performance of different models was compared using this plot:
 
 For detailed analysis, see the [notebooks](notebooks/ZOMATO%20EDA%20and%20modelling.ipynb).
 
-## Future Work
+##  📜 Future Work
 
 - Save and upload trained model files for reproducibility.  
 - Add more advanced models or hyperparameter tuning.  
@@ -66,7 +66,7 @@ For detailed analysis, see the [notebooks](notebooks/ZOMATO%20EDA%20and%20modell
 - Expand analysis with more features or datasets.  
 - Add automated evaluation reports and dashboards.
 
-## License
+##  📜 License
 
 This project is licensed under the [MIT License](LICENSE) - see the LICENSE file for details.
 
