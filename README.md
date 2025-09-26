@@ -17,6 +17,7 @@
 - [📦 Requirements](#-requirements)
 - [⚡ How to Run](#-how-to-run)
 - [📊 Dataset](#-dataset)
+- [🔄 Workflow](#-workflow)
 - [🏆 Results](#-results)
 - [📈 Metric Summary](#-metric-summary)
 - [🚀 Future Work](#-future-work)
@@ -81,7 +82,6 @@ Dataset is too big to upload to GitHub. You can download it here:
 <p align="center">
   <img src="plots/workflow.png" alt="Workflow Diagram" width="500">
 </p>
-
 
 ##  🏆 Results
 
