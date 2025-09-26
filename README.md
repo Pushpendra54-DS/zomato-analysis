@@ -11,6 +11,7 @@
 
 - [📝 Overview](#-overview)
 - [📁 Folder Structure](#-folder-structure)
+- [📦 Requirements](#-requirements)
 - [⚡ How to Run](#-how-to-run)
 - [📊 Dataset](#-dataset)
 - [🏆 Results](#-results)
@@ -28,6 +29,32 @@ This project contains Exploratory Data Analysis (EDA) and a Machine Learning mod
 - [models/](models/) – Saved ML models (if any)
 - [plots/](plots/) – Visualizations and graphs from EDA
 - [results/](results/) – Model results and outputs
+
+## 📦 Requirements
+
+To run this project, you need the following Python packages:
+
+- pandas
+- numpy
+- scikit-learn
+- xgboost
+- matplotlib
+- seaborn
+
+You can install them using pip:
+
+```bash
+pip install pandas numpy scikit-learn xgboost matplotlib seaborn
+```
+
+
+## ⚡ How to Run
+
+Open the notebook: `notebooks/ZOMATO EDA and Modelling.ipynb` in Google Colab.
+
+## 📊 Dataset
+
+The dataset can be accessed here: [Google Drive link](your_dataset_link)
 
 ## ⚡ How to Run
 
