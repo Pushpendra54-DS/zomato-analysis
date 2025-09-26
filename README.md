@@ -33,6 +33,19 @@ The performance of different models was compared using this plot:
 
 ![Model Comparison](results/Model%20Comparision.png)
 
-- Models included: Linear Regression (LR), Decision Tree (DT), Random Forest (RF), XGBoost
-- This plot shows the accuracy or evaluation metrics of all models for easy comparison.
+### Metrics Summary
+
+| Model           | MAE           | R²           |
+|-----------------|---------------|-------------|
+| Linear Regression (LR) | 0.2828        | 0.302       |
+| Decision Tree (DT)     | 0.0481        | 0.856       |
+| Random Forest (RF)     | 0.0637        | 0.915       |
+| XGBoost                | 0.1517        | 0.750       |
+
+**Observations:**  
+- Random Forest (RF) performed the best overall with the highest R².  
+- Linear Regression (LR) had the lowest R² and the highest MAE.  
+- Decision Tree (DT) and XGBoost performed moderately well.  
+
+For detailed analysis, see the [notebooks](notebooks/ZOMATO%20EDA%20and%20modelling.ipynb).
 
