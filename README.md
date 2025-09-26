@@ -8,7 +8,7 @@ This project contains Exploratory Data Analysis (EDA) and a Machine Learning mod
 - [data/](data/) – Dataset files
 - [models/](models/) – Saved ML models (if any)
 - [plots/](plots/) – Visualizations and graphs from EDA
-- [result/](result/) – Model results and outputs
+- [results/](results/) – Model results and outputs
 
 ## How to Run
 Open the notebook in Google Colab or Jupyter and run all cells.
