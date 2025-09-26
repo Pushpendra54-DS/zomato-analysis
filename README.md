@@ -49,3 +49,12 @@ The performance of different models was compared using this plot:
 
 For detailed analysis, see the [notebooks](notebooks/ZOMATO%20EDA%20and%20modelling.ipynb).
 
+## Future Work
+
+- Save and upload trained model files for reproducibility.  
+- Add more advanced models or hyperparameter tuning.  
+- Deploy the model using Flask, Streamlit, or another web framework.  
+- Expand analysis with more features or datasets.  
+- Add automated evaluation reports and dashboards.
+
+
