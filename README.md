@@ -57,4 +57,7 @@ For detailed analysis, see the [notebooks](notebooks/ZOMATO%20EDA%20and%20modell
 - Expand analysis with more features or datasets.  
 - Add automated evaluation reports and dashboards.
 
+## License
+
+This project is licensed under the [MIT License](LICENSE) - see the LICENSE file for details.
 
