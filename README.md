@@ -13,8 +13,8 @@ This project contains Exploratory Data Analysis (EDA) and a Machine Learning mod
 ## How to Run
 
 1. Open the notebook in [Google Colab](https://colab.research.google.com/).  
-2. Or click directly on the notebook in this repository:  
-   [ZOMATO EDA and Modelling](notebook/ZOMATO%20EDA%20and%20modelling.ipynb)  
+2. Or click directly on the notebooks in this repository:  
+   [ZOMATO EDA and Modelling](notebooks/ZOMATO%20EDA%20and%20modelling.ipynb)  
 3. Make sure you have the required libraries installed:
 
 ```python
