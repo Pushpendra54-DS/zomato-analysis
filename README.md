@@ -31,7 +31,8 @@ Dataset is too big to upload to GitHub. You can download it here:
 
 The performance of different models was compared using this plot:
 
-![Model Comparison](result/model_comparison.png)
+![Model Comparison](results/Model%20Comparision.png)
 
 - Models included: Linear Regression (LR), Decision Tree (DT), Random Forest (RF), XGBoost
 - This plot shows the accuracy or evaluation metrics of all models for easy comparison.
+
