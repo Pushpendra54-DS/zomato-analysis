@@ -26,3 +26,12 @@ This project contains Exploratory Data Analysis (EDA) and a Machine Learning mod
 Dataset is too big to upload to GitHub. You can download it here:
 
 [Download Zomato dataset from Google Drive](https://drive.google.com/file/d/1XtwdPLLNdIOMI5xps5z2sQFuCryNATbE/view?usp=sharing)
+
+## Results
+
+The performance of different models was compared using this plot:
+
+![Model Comparison](result/model_comparison.png)
+
+- Models included: Linear Regression (LR), Decision Tree (DT), Random Forest (RF), XGBoost
+- This plot shows the accuracy or evaluation metrics of all models for easy comparison.
