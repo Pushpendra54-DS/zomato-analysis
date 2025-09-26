@@ -4,7 +4,7 @@
 This project contains Exploratory Data Analysis (EDA) and a Machine Learning model built on the Zomato dataset.
 
 ## Folder Structure
-- [notebook/](notebook/) – Jupyter notebooks
+- [notebooks/](notebooks/) – Jupyter notebooks
 - [data/](data/) – Dataset files
 - [models/](models/) – Saved ML models (if any)
 - [plots/](plots/) – Visualizations and graphs from EDA
