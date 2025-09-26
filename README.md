@@ -1,9 +1,12 @@
 # Badges
 
+[![Open in Colab](https://img.shields.io/badge/Open%20in-Colab-orange?logo=googlecolab&logoColor=white)](https://colab.research.google.com/drive/1gZ6FXALtb7fLt-B4GXB-ZRNjv7_apSRL)
 [![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white)](https://www.python.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-yellow?logo=pandas)](#)
+[![NumPy](https://img.shields.io/badge/NumPy-Scientific%20Computing-orange?logo=numpy)](#)
+[![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-green?logo=scikitlearn)](#)
+[![XGBoost](https://img.shields.io/badge/XGBoost-Boosting-red)](#)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Colab](https://img.shields.io/badge/Open%20in-Colab-orange?logo=googlecolab&logoColor=white)](https://colab.research.google.com/drive/your_colab_file_id)
-[![Project](https://img.shields.io/badge/Project-Data%20Science-purple)](#)
 
 # Zomato EDA and ML Model
 
