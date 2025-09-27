@@ -23,6 +23,7 @@
 - [👨‍💻 Author](#-author)
 - [🚀 Future Work](#-future-work)
 - [📜 License](#-license)
+- [⭐ Support](#-support)
 
 
 ## 📝 Overview
@@ -126,4 +127,10 @@ For detailed analysis, see the [notebooks](notebooks/ZOMATO%20EDA%20and%20modell
 ##  📜 License
 
 This project is licensed under the [MIT License](LICENSE) - see the LICENSE file for details.
+
+## ⭐ Support
+
+If you like this project, don’t forget to give it a star ⭐ on GitHub!  
+It helps others discover the project and motivates me to keep improving it. 🚀
+
 
